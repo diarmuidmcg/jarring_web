@@ -10,10 +10,14 @@ defineProps<{
     <h3>
       Download our app on the
       <a href="https://vitejs.dev/" target="_blank" rel="noopener"
-        >iOS App Store</a
+        >iOS App Store.</a
       >
       <!-- or
       <a href="https://vuejs.org/" target="_blank" rel="noopener">Google Play Store</a>. -->
+      <br />
+      If you have any questions, contact Diarmuid at
+      <a href="mailto:diarmuiddevs@proton.me">diarmuiddevs@proton.me</a>. We are
+      happy to hear any &amp; all feedback or comments.
     </h3>
   </div>
 </template>
